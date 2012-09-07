@@ -13,7 +13,7 @@ namespace ATT.Controls
 	public static class AttSettings
 	{
 		/// <summary>
-		/// Gets or sets API key.
+		///  Gets or sets API key.
 		/// </summary>
 		public static string ApiKey { get; set; }
 
