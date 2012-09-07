@@ -1,8 +1,9 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+# Ignoring files into GitHub folder. Nick Lototskiy 2012.
+# Ignore build Folders (you can keep bin if you'd like, to store dlls and pdbs but I think tha this is redundand)
 [Bb]in/
 [Oo]bj/
 
-# mstest test results
+# For mstest test results
 TestResults
 
 ## Ignore Visual Studio temporary files, build results, and
@@ -52,7 +53,7 @@ ipch/
 # Guidance Automation Toolkit
 *.gpState
 
-# ReSharper is a .NET coding add-in
+# ReSharper
 _ReSharper*
 
 # NCrunch
